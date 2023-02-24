@@ -1,1 +1,1 @@
-# spectagram1
+# spectagaram
